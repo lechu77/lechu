@@ -29,7 +29,7 @@ printf "
 
 ERROR: Command $0 must be executed specifying the user described in the Description field:
 
-E:
+Ex:
 
 $0 Lechu
 
