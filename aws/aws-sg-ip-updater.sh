@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ###############################################
+#                                             #
 # IP SG Updater by Lechu                      #
 #                                             #
 # Complete the information about the IAM USER #
